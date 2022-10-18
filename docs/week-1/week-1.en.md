@@ -155,10 +155,6 @@ David, a physics and math tutor from New Jersey, talks about how he teaches stud
 
 ---
 
-**TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
-
---- 
-
 ## References
 
 - https://discord.com/safety/360044149331-What-is-Discord
