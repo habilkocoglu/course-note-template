@@ -13,7 +13,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: 'Discord'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Week-1'
 title: "Discord"
-author: "Author: Asst. Prof. Dr. Uğur CORUH"
+author: "Author: Habil KOÇOĞLU"
 date:
 subtitle: "Introduction To Discord"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
