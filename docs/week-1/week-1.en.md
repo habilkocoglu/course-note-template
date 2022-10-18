@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Asst. Prof. Dr. Uğur CORUH"
+footer-left: "© Habil KOÇOĞLU"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
