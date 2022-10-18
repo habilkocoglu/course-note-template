@@ -10,12 +10,12 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'Sample Course Name'
+header: 'Discord'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Week-1'
-title: "Sample Course Name"
+title: "Discord"
 author: "Author: Asst. Prof. Dr. Uğur CORUH"
 date:
-subtitle: "Sample Course Module Name"
+subtitle: "Introduction To Discord"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -50,11 +50,11 @@ math: katex
 
 <!-- paginate: false -->
 
-## Sample Course Name
+## Discord
 
-### Week-1 (Sample Course Module Name)
+### Week-1 (Introduction To Discord)
 
-#### Spring Semester, 20XX-20XX
+#### Autumn Semester, 2022-2023
 
 Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](week-1.en.md_slide.pptx)
 
