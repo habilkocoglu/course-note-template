@@ -15,7 +15,7 @@ footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20
 title: "Discord"
 author: "Author: Habil KOÇOĞLU"
 date:
-subtitle: "Introduction To Discord"
+subtitle: "Introduction to Discord"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -52,11 +52,13 @@ math: katex
 
 ## Discord
 
-### Week-1 (Introduction To Discord)
+### Week-1 (Introduction to Discord)
 
 #### Autumn Semester, 2022-2023
 
-Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](week-1.en.md_slide.pptx)
+Download
+[DOC](https://github.com/habilkocoglu/course-note-template/blob/main/docs/week-1/week-1.en.md_word.docx?raw=true)
+[PPTX](https://github.com/habilkocoglu/course-note-template/blob/main/docs/week-1/week-1.en.md_word.pptx?raw=true)
 
 <iframe width=700, height=500 frameBorder=0 src="../week-1.en.md_slide.html"></iframe>
 
